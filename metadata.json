@@ -1,0 +1,8 @@
+{
+  "name": "Pulse+",
+  "description": "The future of intelligent healthcare. A premium, speed-optimized health platform featuring AI-driven consultations, rapid pharmacy delivery, and blockchain-verified diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
